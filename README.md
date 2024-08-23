@@ -27,4 +27,4 @@ My name is Phurit Pookayaporn (Ernest). I graduated from Chulalongkorn Universit
 TBA
 
 ## Inspiration
-I got inspiration for portfolio development from Ketmanto Wangsa, who created the portfolio for cybersecurity. You can visit the repository [here]([url](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio)).
+I got inspiration for portfolio development from Ketmanto Wangsa, who created the portfolio for cybersecurity. You can visit the repository [here](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/).
