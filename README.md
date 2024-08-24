@@ -4,7 +4,12 @@ I am developing a network engineering and cyber security portfolio on Linux and 
 ## Professional Statements
 This section is the statement about the professional I would like to develop.
 
-My name is Phurit Pookayaporn (Ernest). I graduated from Chulalongkorn University (Bangkok, Thailand) with a Bachelor's in Aerospace Engineering. I worked at a space company based in Thailand for two years as an engineer and led the development and manufacturing of satellite components, systems, and projects; including sending space payloads to sub-orbital and Low-earth orbit. The work, although mostly outsourced and partnered, I have learned project management, systems engineering, mechanical engineering, electrical engineering, and computer engineering. Bits by bits, I am inspired to pursue an IT career, specifically in network engineering and cyber security from a motivation of digital economy and Low-earth orbit internet satellite constellations.
+My name is Phurit Pookayaporn (Ernest). I graduated from Chulalongkorn University (Bangkok, Thailand) with a Bachelor's in Aerospace Engineering. I worked at a space company based in Thailand for two years as an engineer and led the development and manufacturing of satellite components, systems, and projects; including sending space payloads to sub-orbital and Low-earth orbit. The work, although mostly outsourced and partnered, I have learned project management, systems engineering, mechanical engineering, electrical engineering, and computer engineering. Bits by bits, I am inspired to pursue an IT career.
+
+## Personal Statements
+This section is the statement about the personal constraints and how I came up with the approach.
+
+I currently have limited monetary and time resources to find a permanent job that will supply sufficient funds for career development as well as to support my family. I realize that I have my computer, internet access, and general knowledge of IT, which may be useful in writing a blog for recruiters to find my portfolio.
 
 ### The academic courses I would like to follow are;
 
