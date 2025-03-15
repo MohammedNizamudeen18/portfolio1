@@ -1,83 +1,103 @@
-# Ernest-Network-and-Security-Portfolio
-I am developing a network engineering and cyber security portfolio on Linux and Windows os, network tools, and cloud tools.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohammed Nizamudeen - Network Engineering Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Mohammed Nizamudeen</h1>
+        <h2>Network Engineer | Cybersecurity Specialist | Firewall & Cloud Security Expert</h2>
+        <p>Passionate about network security, firewall management, SIEM monitoring, cloud security, and IT automation. This portfolio highlights my technical expertise, certifications, and hands-on projects in enterprise networking and cybersecurity.</p>
+    </header>
 
-## Professional Statements
-This section is the statement about the professional I would like to develop.
+    <section id="about">
+        <h2>About Me</h2>
+        <p><strong>Location:</strong> Chennai, India</p>
+        <p><strong>Email:</strong> <a href="mailto:mohammed.nizamudeen18@gmail.com">mohammed.nizamudeen18@gmail.com</a></p>
+        <p><strong>LinkedIn:</strong> <a href="https://in.linkedin.com/in/mohammed-nizamudeen" target="_blank">linkedin.com/in/mohammed-nizamudeen</a></p>
+        <p><strong>Portfolio Website:</strong> Coming Soon...</p>
+    </section>
 
-My name is Phurit Pookayaporn (Ernest). I graduated from Chulalongkorn University (Bangkok, Thailand) with a Bachelor's in Aerospace Engineering. I worked at a space company based in Thailand for two years as an engineer and led the development and manufacturing of satellite components, systems, and projects; including sending space payloads to sub-orbital and Low-earth orbit. The work, although mostly outsourced and partnered, I have learned project management, systems engineering, mechanical engineering, electrical engineering, and computer engineering. Bits by bits, I am inspired to pursue an IT career.
+    <section id="experience">
+        <h2>Professional Experience</h2>
+        <h3>Senior IT Support Engineer</h3>
+        <p><em>BILLEDRIGHT HEALTHCARE SOLUTIONS (06/2023 – Present)</em></p>
+        <ul>
+            <li>Secured 450+ endpoints using Microsoft Intune, achieving 99.9% uptime.</li>
+            <li>Configured firewalls (Fortinet, Sophos, Cisco Meraki) with VPN, IDS/IPS, and VLAN segmentation.</li>
+            <li>Conducted SIEM monitoring using Graylog & Microsoft Defender, improving threat response.</li>
+            <li>Managed Windows Server, Active Directory, DNS, and DHCP to ensure high availability.</li>
+            <li>Automated backup & security operations using PowerShell scripting.</li>
+        </ul>
 
-## Personal Statements
-This section is the statement about the personal constraints and how I came up with the approach.
+        <h3>Technical Support Engineer</h3>
+        <p><em>Hebesec Technologies Pvt Ltd (10/2022 – 05/2023)</em></p>
+        <ul>
+            <li>Designed and deployed secure networks, configuring Fortinet & Cisco firewalls.</li>
+            <li>Integrated SSO & MFA authentication with Active Directory & Azure AD.</li>
+            <li>Managed NAS solutions (Synology, QNAP) with RAID configurations & data backup.</li>
+            <li>Performed network audits & compliance checks (ISO 27001, SOC 2).</li>
+        </ul>
+    </section>
 
-I currently have limited monetary and time resources to find a permanent job that will supply sufficient funds for career development as well as to support my family. I realize that I have my computer, internet access, and general knowledge of IT, which may be useful in writing a blog for recruiters to find my portfolio.
+    <section id="skills">
+        <h2>Technical Skills</h2>
+        <ul>
+            <li><strong>Network Engineering & Security:</strong> Firewall Configuration (Cisco, Fortinet, Sophos, Palo Alto), SIEM & Threat Detection (Graylog, Splunk, Microsoft Defender), VLAN, VPN, IDS/IPS, and Network Segmentation.</li>
+            <li><strong>Cloud & Infrastructure:</strong> Microsoft Azure, Hyper-V & VMware Virtualization, AWS Security Best Practices, Backup & Disaster Recovery (Acronis, Veeam, NAS).</li>
+            <li><strong>Automation & Compliance:</strong> PowerShell Scripting, IT Compliance & Audit (ISO 27001, SOC 2), Patch Management & System Hardening.</li>
+        </ul>
+    </section>
 
-### The academic courses I would like to follow are;
+    <section id="certifications">
+        <h2>Certifications</h2>
+        <ul>
+            <li>Cisco Certified Network Associate (CCNA)</li>
+            <li>Fortinet NSE 1, 2, 3</li>
+            <li>Microsoft Azure Administrator Associate</li>
+            <li>Sophos Firewall Engineer</li>
+            <li>ISO 27001 Lead Implementer</li>
+            <li>AWS Certified Security – Specialty</li>
+        </ul>
+    </section>
 
-- Bachelor of Information Technology ([based on Illinois Tech's BofIT](https://www.coursera.org/degrees/bach-information-technology-illinois-tech/academics))
-  - [ ] Computer and Peripheral Hardware
-  - [ ] Computer Networking
-  - [ ] Mobile Computing and Cloud
-  - [ ] Intro to Open Source App Dev
-  - [ ] Fundamentals of Web Development
-  - [ ] Open-Source Programming
-  - [ ] Intro Data Networks & Internet
-  - [ ] Intro Open Source OS
-  - [ ] Cloud Computing Technologies
+    <section id="projects">
+        <h2>Projects & Portfolio</h2>
+        <h3>Enterprise Firewall Configuration & Security Hardening</h3>
+        <ul>
+            <li>Designed & deployed multi-layer firewall security for an enterprise network.</li>
+            <li>Implemented VPN, IDS/IPS, and VLAN segmentation for secure remote access.</li>
+        </ul>
 
-- Master of Information Technology ([based on Illinois Tech's MofIT](https://www.coursera.org/degrees/mas-information-technology-illinois-tech/academics))
-  - [ ] Microsoft Windows OS
-  - [ ] Linux OS
-  - [ ] OS Security
-  - [ ] Programming and Application Foundations
-  - [ ] Open Source Programming
-  - [ ] Operating System Virtualization
-  - [ ] Cloud Computing Security
-  - [ ] Software as a Service
-  - [ ] Platform as a Service
-  - [ ] Infrastructure as a Service
+        <h3>SIEM Monitoring & Threat Detection</h3>
+        <ul>
+            <li>Set up SIEM monitoring (Graylog, Microsoft Defender, Cisco Meraki).</li>
+            <li>Automated security event correlation & incident response workflows.</li>
+        </ul>
 
-- Master of Science in Computer Science ([based on CU Boulder's MS-CS](https://www.coursera.org/degrees/ms-computer-science-boulder/academics))
-  - [ ] Foundations of Data Structures and Algorithms
-  - [ ] Network Systems Principles and Practice
-  - [ ] Machine Learning
-  - [ ] Computing, Ethics, and Society
-  - [ ] Foundations of Autonomous Systems
-  - [ ] Data Mining Foundations and Practice
-  - [ ] Introduction to Human-Computer Interaction
-  - [ ] Introduction to Robotics with Webots
-  - [ ] Internet Policy: Principles and Problems
-  - [ ] Object Oriented Analysis and Design
-  - [ ] [ME-EM](https://catalog.colorado.edu/graduate/colleges-schools/engineering-applied-science/programs-study/engineering-management/engineering-management-master-engineering-me-online/#requirementstext)
-    - [ ] Finance for Technical Managers
-    - [ ] Project Management
-  - [ ] [MS-EE](https://catalog.colorado.edu/graduate/colleges-schools/engineering-applied-science/programs-study/electrical-engineering/electrical-engineering-master-science-online-msee/#requirementstext)
-    - [ ] Embedded Systems Track's Advanced Embedded Linux Development Specialization
-      - [ ] Linux System Programming and Introduction to Buildroot
-      - [ ] Linux Kernel Programming and Introduction to Yocto
-      - [ ] Embedded System Topics and Project
-      - [ ] Industrial Internet of Things Specialization
-      - [ ] Real-time Embedded Systems Specialization
-    - [ ] Embedded Systems Track's Spectrum Engineering
+        <h3>Cloud Security & Infrastructure Optimization</h3>
+        <ul>
+            <li>Deployed Microsoft Azure security solutions for enterprise networks.</li>
+            <li>Implemented Zero Trust security policies & IAM access control.</li>
+        </ul>
+    </section>
 
-### The professional Certifications I would like to pursue are;
-- [ ] Akamai Network Engineering Professional Certificate
-- [ ] IBM Cybersecurity Analyst Professional Certificate
-- [ ] IBM Project Manager Professional Certificate
-- [ ] IBM and ISC2 Cybersecurity Specialist Professional Certificate
-- [ ] Microsoft Cybersecurity Analyst Professional Certificate
-- [ ] Google Cybersecurity Professional Certificate
+    <section id="future-goals">
+        <h2>Future Goals & Learning Path</h2>
+        <ul>
+            <li>Advanced Network Security: NSE4, CCNP Security, CISSP</li>
+            <li>Cloud Security Specialization: AWS, Azure Security, Kubernetes Security</li>
+            <li>Automation & DevSecOps: Terraform, Ansible, Python for Security</li>
+            <li>Threat Intelligence & SOC Operations</li>
+        </ul>
+    </section>
 
-### The professional Portfolios I would like to develop are; 
-- [ ] Linux Offline App Project Portfolio
-- [ ] MS Windows Offline App Project Portfolio
-- [ ] Web App Project Portfolio
-- [ ] Network Tools
-- [ ] Assets, Threats, and Vulnerabilities Portfolio
-- [ ] Network Security Portfolio
-- [ ] Security Audit Portfolio
+    <footer>
+        <p>🚀 This portfolio is a comprehensive showcase of my expertise, hands-on projects, and certifications in network security & IT infrastructure. Let’s connect and collaborate on enterprise network solutions! 🔥</p>
+    </footer>
+</body>
+</html>
 
-## Portfolio
-TBA
-
-## Inspiration
-I got inspiration for portfolio development from Ketmanto Wangsa, who created the portfolio for cybersecurity. You can visit the repository [here](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/).
